@@ -9,4 +9,3 @@ Step 3
 Скачать Pudroid 3 в Play Market. 
 Step 4 
 Запустить файл Parliament.py
-#Удачной игры! 
